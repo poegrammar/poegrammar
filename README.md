@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @poegrammar!
+- 👀 I’m interested in building powerful web apps.
+- 🌱 I’m currently learning nexst.js for personal projects.
+- 📫 How to reach me: poegrammar@gmail.com
