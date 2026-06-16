@@ -2,5 +2,5 @@
 - 👀 I’m interested in building powerful web apps.
 - 🌱 I’m currently learning nexst.js for personal projects.
 - 📫 How to reach me: poegrammar@gmail.com
-- View My personal portfolio at poegrammar.com
-- Test env at test.poegrammar.com
+- View My personal portfolio at https://poegrammar.com
+- Test env at https://test.poegrammar.com
